@@ -5,34 +5,32 @@ plugins:
 remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
 
 url: https://ucsb-cs9.github.io
-baseurl: "/f23"
+baseurl: "/s24"
 
 course: "CS 9"
-qtr: "F23"
-instructor: "Richert Wang" 
-quarter: "Fall 2023"
+qtr: "S24"
+instructor: "Sharon Solis" 
+quarter: "Spring 2024"
 piazza_url: 
 gauchospace_course_page:
 gradescope_class_url:
 
-github_url: https://github.com/ucsb-cs9/f23
+github_url: https://github.com/ucsb-cs9/s24
 
-start_week: 0
-start_date: 2023-09-24 00:00:00.00-7:00
-num_weeks: 11
+start_week: 1
+start_date: 2024-04-02 00:00:00.00-7:00
+num_weeks: 10
 extra_exam_week: true
 
 cal_dates: >                                                                    
   [                                                                            
-    {"label":"F23 1st day of instruction", "date":"2023-09-28" },
-    {"label":"Academic Integrity Contract Due", "date":"2023-10-10" },
-    {"label":"F23 CS 9 MIDTERM (11am - 12:15pm)", "date":"2023-11-02" },
-    {"label":"Veterans' Day", "date":"2022-11-10" },
-    {"label":"Thanksgiving", "date":"2022-11-23" },
-    {"label":"Thanksgiving", "date":"2022-11-24" },
-    {"label":"F23 instruction ends", "date":"2023-12-08" },
-    {"label":"F23 CS 9 FINAL (12:00pm - 2:00pm)", "date":"2023-12-13" },                                                
-    {"label":"F23 qtr ends", "date":"2023-12-15" }                              
+    {"label":"F23 1st day of instruction", "date":"2024-04-01 },
+    {"label":"Academic Integrity Contract Due", "date":"2024-04-08" },
+    {"label":"S24 CS 9 MIDTERM (12:30pm - 1:45pm)", "date":"2024-05-02" },
+    {"label":"Memorial Day", "date":"2024-05-27" },
+    {"label":"S24 instruction ends", "date":"2024-06-07" },
+    {"label":"S24 CS 9 FINAL (12:00pm - 3:00pm)", "date":"2024-06-10" },                                                
+    {"label":"S24 qtr ends", "date":"2024-06-14" }                              
   ]
 
 kramdown:
