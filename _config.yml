@@ -5,7 +5,7 @@ plugins:
 remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
 
 url: https://ucsb-cs9.github.io
-baseurl: "/s24"
+baseurl: "/s24-swsolis"
 
 course: "CS 9"
 qtr: "S24"
