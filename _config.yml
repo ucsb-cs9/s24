@@ -24,7 +24,7 @@ extra_exam_week: true
 
 cal_dates: >                                                                    
   [                                                                            
-    {"label":"F23 1st day of instruction", "date":"2024-04-01 },
+    {"label":"S24 1st day of instruction", "date":"2024-04-01 },
     {"label":"Academic Integrity Contract Due", "date":"2024-04-08" },
     {"label":"S24 CS 9 MIDTERM (12:30pm - 1:45pm)", "date":"2024-05-02" },
     {"label":"Memorial Day", "date":"2024-05-27" },
