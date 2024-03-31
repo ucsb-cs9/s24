@@ -19,11 +19,11 @@ home:
    baseurl: /
 
 offerings:
-   title: "s24"
+   title: "s24-swsolis"
    url: /	
    baseurl: /s24-swsolis
    items:
-      - title: "s24"
+      - title: "s24-swsolis"
         url: /
         baseurl: /s24-swsolis
 
@@ -33,5 +33,5 @@ offering_links:
      description: "Assignment Calendar"
    - title: Github
      dropdown:
-         - title: s24
+         - title: s24-swsolis
            url: https://github.com/ucsb-cs9/s24-swsolis
