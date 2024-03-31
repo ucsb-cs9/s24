@@ -1,11 +1,11 @@
 ---
 num: "Lecture 7"
 desc: "Recursion, Python Lists vs. Dictionaries"
-ready: true
-lecture_date: 2023-10-19 11:00:00.00-7:00
+ready: false
+lecture_date: 2024-04-23 12:30:00.00-7:00
 ---
 
-Recorded Lecture: [10_19_23](https://drive.google.com/file/d/1R0QkeO-RBzECiZz59-anicdDaoQst1BT/view?usp=sharing)
+Recorded Lecture: 
 
 # Recursion
 
