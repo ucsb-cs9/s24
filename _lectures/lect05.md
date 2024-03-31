@@ -1,7 +1,7 @@
 ---
 num: "Lecture 5"
 desc: "Pytest, Operator Overloading, Inheritance"
-ready: true
+ready: false
 lecture_date: 2024-04-16 12:30:00.00-7:00
 ---
 
