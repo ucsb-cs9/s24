@@ -1,11 +1,11 @@
 ---
 num: "Lecture 9"
 desc: "Stacks, Queues, Deques, Midterm Guide"
-ready: true
-lecture_date: 2023-10-26 11:00:00.00-7:00
+ready: false
+lecture_date: 2024-04-30 12:30:00.00-7:00
 ---
 
-Recorded Lecture: [10_26_23](https://drive.google.com/file/d/1fSCKUUaNE4dlktbHv2jEIQhSikpQBvbC/view?usp=drive_link)
+Recorded Lecture: 
 
 # Stacks
 
