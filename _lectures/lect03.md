@@ -2,10 +2,10 @@
 num: "Lecture 3"
 desc: "Python Review cont. Python Classes"
 ready: false
-lecture_date: 2023-10-05 11:00:00.00-7:00
+lecture_date: 2024-04-09 12:30:00.00-7:00
 ---
 
-Recorded Lecture: [10_5_23](https://drive.google.com/file/d/1a3GUFPiKmHNWNAQzmznSAvXVDYF7zVRB/view?usp=drive_link)
+Recorded Lecture: 
 
 # Dictionaries
 
@@ -126,7 +126,7 @@ def __init__(self, name, perm):
 	self.name = name
 	self.perm = perm
 
-s = Student("Richert", 1234567)
+s = Student("Sharon", 1234567)
 s.printAttributes()
 ```
 
