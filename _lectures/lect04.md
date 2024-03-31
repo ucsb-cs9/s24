@@ -2,10 +2,10 @@
 num: "Lecture 4"
 desc: "Shallow vs. Deep Equality, Python Errors, Exception Handling, Testing"
 ready: false
-lecture_date: 2023-10-10 11:00:00.00-7:00
+lecture_date: 2024-04-11 12:30:00.00-7:00
 ---
 
-[Recorded Lecture](https://drive.google.com/file/d/1E1LLHcql9dqS9OmOI5HncK0ktQibfCEB/view?usp=drive_link) 
+[Recorded Lecture]
 
 # Shallow vs. Deep Equality
 
