@@ -21,7 +21,7 @@ home:
 offerings:
    title: "s24"
    url: /	
-   baseurl: /s24-swsolis4
+   baseurl: /s24-swsolis
    items:
       - title: "s24"
         url: /
