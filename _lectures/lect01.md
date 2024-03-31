@@ -2,13 +2,13 @@
 num: "Lecture 1"
 desc: "Introduction, Python Review"
 ready: true
-lecture_date: 2023-09-28 11:00:00.00-7:00
+lecture_date: 2024-04-02 12:30:00.00-7:00
 ---
 
-Recorded Lecture: [9_28_23](https://drive.google.com/file/d/1DRlHP6zWm11J2NigfE2r-COed9_k_3Bg/view?usp=drive_link)
+Recorded Lecture: 
 
-* Course webpage: [https://ucsb-cs9.github.io/f23/](https://ucsb-cs9.github.io/f23/)
-	* Please read and understand the syllabus: [https://ucsb-cs9.github.io/f23/info/syllabus/](https://ucsb-cs9.github.io/f23/info/syllabus/)
+* Course webpage: [https://ucsb-cs9.github.io/s24-swsolis/](https://ucsb-cs9.github.io/s24-swsolis/)
+	* Please read and understand the syllabus: [https://ucsb-cs9.github.io/s24-swsolis/info/syllabus/](https://ucsb-cs9.github.io/s24-swsolis/info/syllabus/)
 
 # Python Basics
 
