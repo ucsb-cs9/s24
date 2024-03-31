@@ -1,11 +1,11 @@
 ---
 num: "Lecture 8"
 desc: "Binary Search"
-ready: true
-lecture_date: 2023-10-24 11:00:00.00-7:00
+ready: false
+lecture_date: 2024-04-25 12:30:00.00-7:00
 ---
 
-Recorded Lecture: [10_24_23](https://drive.google.com/file/d/1rUEjefcCF05kVDP9_MzWAac_U3uUh9na/view?usp=drive_link)
+Recorded Lecture: 
 
 * Link to previous M23 in-person Midterm: [M23 Sample Midterm](https://drive.google.com/file/d/1w07or5xb0dBN3uzQXp8uW_c6VlMoY9NX/view?usp=drive_link)
     * Note: use this as a **supplemental** study guide - the content and difficulty will vary.
