@@ -2,10 +2,10 @@
 num: "Lecture 5"
 desc: "Pytest, Operator Overloading, Inheritance"
 ready: true
-lecture_date: 2023-10-12 11:00:00.00-7:00
+lecture_date: 2024-04-16 12:30:00.00-7:00
 ---
 
-Recorded Lecture: [10_12_23](https://drive.google.com/file/d/1E2aULkF9sTD-RqNUFiEjcQa-LdyYVjnN/view?usp=drive_link)
+Recorded Lecture: 
 
 # Pytest
 * Pytest is a framework that allows developers to write tests to check the correctness of their code
