@@ -2,10 +2,10 @@
 num: "Lecture 2"
 desc: "Python Review cont."
 ready: false
-lecture_date: 2023-10-03 11:00:00.00-7:00
+lecture_date: 2024-04-04 12:30:00.00-7:00
 ---
 
-Recorded Lecture: [10_3_23](https://drive.google.com/file/d/12VDue41nXJ4_UF4uetSKMoHDQch4egKT/view?usp=drive_link)
+Recorded Lecture: 
 
 # Relational and Logical Operators
 
