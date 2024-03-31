@@ -1,5 +1,5 @@
 ---
-title: "Syllabus, CMPSC 9, Fall 2023"
+title: "Syllabus, CMPSC 9, Spring 2024"
 layout: handout
 ready: true
 ---
@@ -7,14 +7,14 @@ ready: true
 Basic Facts
 -----------
 
-* **Course Web Site**: <https://ucsb-cs9.github.io/f23/>
-* **Instructor**:  [Richert Wang](http://www.cs.ucsb.edu/~richert)
-   * Email is richert@ucsb.edu, BUT please use [Piazza](https://piazza.com/ucsb/fall2023/cmpsc9/home) for course related communication.
-* **Lecture**: Tu Th 11:00am-12:15pm (ILP 2302)
+* **Course Web Site**: <https://ucsb-cs9.github.io/s24-swsolis/>
+* **Instructor**:  [Sharon Solis](https://datascience.ucsb.edu/people/sharon-solis)
+   * Email is swsolis@ucsb.edu, BUT please use [Piazza](https://piazza.com/ucsb/spring2024/cmpsc9) for course related communication.
+* **Lecture**: Tu Th 12:30pm-1:45pm (BUCHN 1930)
 * **TAs**:  {{site.ta_list_full}} (contact via Piazza)
 * **Mentors**: {{site.mentors_list}} (contact via Piazza)
-* **Lab** (50 minute lab sections): Wednesdays 12pm, 1pm, 2pm, 3pm, 4pm, 5pm, 6pm (SSMS 1301)
-* **Office Hours**: See <https://ucsb-cs9.github.io/f23/info/office_hours/>
+* **Lab** (50 minute lab sections): Fridays 9am, 10am, 11am (PHELP 1444)
+* **Office Hours**: See <https://ucsb-cs9.github.io/s24-swsolis/info/office_hours/>
 
 # Required Resources
 
