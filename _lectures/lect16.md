@@ -1,11 +1,11 @@
 ---
 num: "Lecture 16"
 desc: "Binary Trees, Tree Traversals, Binary Search Trees"
-ready: true
-lecture_date: 2023-11-21 11:00:00.00-7:00
+ready: false
+lecture_date: 2024-05-23 12:30:00.00-7:00
 ---
 
-Recorded Lecture: [11_21_23](https://drive.google.com/file/d/1mVRE7Pq27GJdkXqaLcXYpPFaMePJMUI0/view?usp=drive_link)
+Recorded Lecture: 
 
 # Binary Trees
 
