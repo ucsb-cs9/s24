@@ -1,11 +1,11 @@
 ---
 num: "Lecture 19"
 desc: "Binary Search Trees cont."
-ready: true
-lecture_date: 2023-12-05 11:00:00.00-7:00
+ready: false
+lecture_date: 2024-06-04 12:30:00.00-7:00
 ---
 
-Recorded Lecture: [12_5_23](https://drive.google.com/file/d/1MPGghftgQ46cFQ-dyQZtVOcaOomp_jSN/view?usp=drive_link)
+Recorded Lecture: 
 
 # BST Deletion Implementation
 ```
