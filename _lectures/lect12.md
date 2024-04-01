@@ -1,11 +1,11 @@
 ---
 num: "Lecture 12"
 desc: "Quadratic Sorting Algorithms cont."
-ready: true
-lecture_date: 2023-11-07 11:00:00.00-7:00
+ready: false
+lecture_date: 2024-05-09 12:300:00.00-7:00
 ---
 
-Recorded Lecture: [11_7_23](https://drive.google.com/file/d/1gF4MgrW0qOP5PrJm2bgPwiEgEp92l1_U/view?usp=drive_link)
+Recorded Lecture: 
 
 # Selection Sort
 
