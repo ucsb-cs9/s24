@@ -2,7 +2,7 @@
 num: "Lecture 12"
 desc: "Quadratic Sorting Algorithms cont."
 ready: false
-lecture_date: 2024-05-09 12:300:00.00-7:00
+lecture_date: 2024-05-09 12:30:00.00-7:00
 ---
 
 Recorded Lecture: 
