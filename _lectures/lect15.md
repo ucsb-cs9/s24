@@ -1,11 +1,11 @@
 ---
 num: "Lecture 15"
 desc: "Trees, Priority Queues, Heaps"
-ready: true
-lecture_date: 2023-11-16 11:00:00.00-7:00
+ready: false
+lecture_date: 2024-05-21 12:300:00.00-7:00
 ---
 
-Recorded Lecture: [11_16_23](https://drive.google.com/file/d/1LPaBdMVvJuP5V3aOLLC40OkiTz96sZqy/view?usp=drive_link)
+Recorded Lecture: 
 
 # Trees
 
