@@ -1,11 +1,11 @@
 ---
 num: "Lecture 10"
 desc: "Linked Lists"
-ready: true
-lecture_date: 2023-10-31 11:00:00.00-7:00
+ready: false
+lecture_date: 2024-05-02 12:30:00.00-7:00
 ---
 
-Recorded Lecture: [10_31_23](https://drive.google.com/file/d/1PkzoqwKFtRsrdirL1q43m7gtcKfiO4oA/view?usp=drive_link)
+Recorded Lecture: 
 
 # Linked Lists
 
