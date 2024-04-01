@@ -1,10 +1,10 @@
 ---
 layout: lab
 num: lab06
-ready: true
+ready: false
 desc: "Sorting Apartments"
-assigned: 2023-11-12 23:59:59.59-7
-due: 2023-11-19 23:59:59.59-7
+assigned: 2024-05-12 23:59:59.59-7
+due: 2024-05-19 23:59:59.59-7
 ---
 
 # Introduction
