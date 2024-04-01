@@ -1,11 +1,11 @@
 ---
 num: "Lecture 14"
 desc: "Quicksort"
-ready: true
-lecture_date: 2023-11-14 11:00:00.00-7:00
+ready: false
+lecture_date: 2024-05-16 12:30:00.00-7:00
 ---
 
-Recorded Lecture: [11_14_23](https://drive.google.com/file/d/1yFWRrHQsPhKiuWGYhjBHlB6_i5Ap80vj/view?usp=drive_link)
+Recorded Lecture: 
 
 # Quicksort
 * Another divide-and-conquer algorithm
