@@ -1,10 +1,10 @@
 ---
 layout: lab
 num: lab05
-ready: true
+ready: false
 desc: "Ordered Linked Lists"
-assigned: 2023-11-05 23:59:59.59-7
-due: 2023-11-12 23:59:59.59-7
+assigned: 2024-05-05 23:59:59.59-7
+due: 2024-05-12 23:59:59.59-7
 ---
 
 In this lab, you'll have the opportunity to practice:
