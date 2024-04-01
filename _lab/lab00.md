@@ -3,35 +3,22 @@ layout: lab
 num: lab00
 ready: true
 desc: "Getting Started, Python Review"
-assigned: 2023-09-28 11:00:00.00-7
-due: 2023-10-08 23:59:59.59-7
+assigned: 2024-04-02 12:30:00.00-7
+due: 2024-04-07 23:59:59.59-7
 ---
 
 # Introduction
 
-Your first lab for this week is an introduction to making submissions to Gradescope's autograder, joining the ucsb-cs9-f23 github organization so you can create **private** repositories of your lab work throughout the quarter, and writing Python functions for review.
+Your first lab for this week is an introduction to making submissions to Gradescope's autograder and writing Python functions for review.
 
 ## Goals for this lab
 
 By the time you have completed this lab, you should have:
 * installed Python
 * created and run Python progams in IDLE
-* created a Private github repo and upload your work using github's web interface
 * submited an assignment using the Gradescope system
 
-# Get setup with Github and adding yourself to our organization
 
-We will be using <https://github.com> in this course. We have created an organization called ucsb-cs9-f23 on github.com where you can create repositories (repos) for your assignments in this course. The advantage of creating private repos under this organization is that the course staff (your instructor, TAs, and Learning Assistants) will be able to see your code and provide you with help.
-
-To join this organization, you need to do three things.
-
-1. If you don't already have a github.com account, create one on the "free" plan. Visit [https://github.com/](https://github.com/)
-
-2. If you don't already have your @umail.ucsb.edu email address associated with your github.com account. go to "settings", add that email, and confirm that email address.
-
-3. Visit our Github Sign Up Tool at [https://ucsb-cs-github-linker.herokuapp.com/](https://ucsb-cs-github-linker.herokuapp.com/), login with your github.com account, click "Home", find this course (CS 9 F23), and click the "join course button". That will automatically send you an invitation to join the course organization on github.
-
-4. There should be a link to the invitation for the GitHub organization for this course (<https://github.com/ucsb-cs9-f23>). Click on the invitation link and accept it. You can also go straight to <https://github.com/ucsb-cs9-f23> and see the invitation there (if you're logged in). Accept the invitation that appears in your browser (from step 3) or log into your account on [https://github.com/](https://github.com/) to accept the invitation.
 
 # Get setup with Gradescope
 
@@ -47,11 +34,7 @@ The instructions on installing Python on your computer can be found here:
 
 Follow the appropriate links to install Python for your computer.
 
-# Lab Section Computers
 
-We are offering in-person lab sections this quarter in SSMS 1301. These computers are Windows machines with Python 3+ already installed. **In general, it is acceptable to conduct your work on your own computer for this class.** 
-
-The workstations in SSMS 1301 **WILL NOT** save your work such that when you log in / log out. If you plan on using these machines to do your work, it is a good idea to create back up versions of your work in case you plan on working on your personal computer - uploading versions of your work on github or Gradescope is a great way to do this since you can download / upload your work on any computer. Instructions on creating a repository on github to store your work is at the bottom of these lab instructions.
 
 # Create your Lab00 directory
 
@@ -142,34 +125,6 @@ In Python, things are executed line-by-line from top to bottom. So if your code 
 
 In order to run your `lab00.py` file in IDLE, go to "Run" -> "Run Module". This will start the execution of the file you're working on and the output will be displayed in IDLE's Interactive Shell.
 
-## Good Idea: Periodically uploading your solution to Github
-
-It's a good idea to periodically save your work on Github since:
-* It helps our staff provide assistance on the code you're currently working on.
-* It saves versions of your work, in case you want to revert back to a previous version.
-* You can download your work in case you're working on a different computer.
-* It's useful to familiarize yourself with Github's interface - Github is a commonly used and powerful tool!
-
-In order to create a directory in the Github organization:
-* Navigate to <https://github.com/ucsb-cs9-f23>
-* Click on the "New" Green Button to create a new "repository" (note: you should have a separate repository for each lab assignment).
-
-![newButton](newButton.png)
-
-* From here, you can create your repository.
-* NOTE: Be sure that **"Private"** is selected. The CS 9 course staff can see all private repositories, but other students will not be able to.
-* Name your repository "lab00_[your_UCSBNETID]" - where you will type your actual UCSBNETID.
-
-![createRepo](createRepo.png)
-
-* Once your Private repository is created, you can upload your work by clicking on the "uploading an existing file" link in your currently empty repository page.
-* You can drag/drop or navigate to your `lab00.py` file on your computer to upload.
-
-![fileUpload](fileUpload.png)
-
-* Then click on the "Commit changes" green button to actually upload your file to your repository.
-* Congrats! Your file now lives in your Github repository!
-	* You can re-upload updated versions on Github and all of your previous versions of your work will be saved.
 
 # Submitting to Gradescope
 
