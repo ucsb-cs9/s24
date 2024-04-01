@@ -2,7 +2,7 @@
 num: "Lecture 15"
 desc: "Trees, Priority Queues, Heaps"
 ready: false
-lecture_date: 2024-05-21 12:300:00.00-7:00
+lecture_date: 2024-05-21 12:30:00.00-7:00
 ---
 
 Recorded Lecture: 
