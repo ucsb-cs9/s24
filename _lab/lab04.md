@@ -1,10 +1,10 @@
 ---
 layout: lab
 num: lab04
-ready: true
+ready: false
 desc: "Maze Solver using Stacks"
-assigned: 2023-10-29 23:59:59.59-7
-due: 2023-11-05 23:59:59.59-7
+assigned: 2024-04-28 23:59:59.59-7
+due: 2024-05-05 23:59:59.59-7
 ---
 
 In this lab, we'll practice:
