@@ -11,9 +11,9 @@ course: "CS 9"
 qtr: "S24"
 instructor: "Sharon Solis" 
 quarter: "Spring 2024"
-piazza_url: 
+piazza_url: https://piazza.com/ucsb/spring2024/cmpsc9/home
 gauchospace_course_page:
-gradescope_class_url:
+gradescope_class_url: https://www.gradescope.com/courses/760444
 
 github_url: https://github.com/ucsb-cs9/s24-swsolis
 
