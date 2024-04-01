@@ -4,7 +4,7 @@ num: lab08
 ready: false
 desc: "Used Car Lot"
 assigned: 2024-05-26 23:59:59.59-7
-due: 2024-06-02 23:59:59.59-7
+due: 2024-06-03 23:59:59.59-7
 ---
 
 In this lab, you'll have the opportunity to practice:
