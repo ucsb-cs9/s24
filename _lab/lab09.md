@@ -1,10 +1,10 @@
 ---
 layout: lab
 num: lab09
-ready: true
+ready: false
 desc: "Used Car Lot - Part Two"
-assigned: 2023-12-03 23:59:59.59-7
-due: 2023-12-10 23:59:59.59-7
+assigned: 2024-06-02 23:59:59.59-7
+due: 2024-06-09 23:59:59.59-7
 ---
 
 In this lab, you'll have the opportunity to practice:
