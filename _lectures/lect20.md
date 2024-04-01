@@ -1,15 +1,14 @@
 ---
 num: "Lecture 20"
 desc: "Wrap up / Review"
-ready: true
-lecture_date: 2023-12-07 11:00:00.00-7:00
+ready: false
+lecture_date: 2024-06-06 12:30:00.00-7:00
 ---
 
-Recorded Lecture: [12_7_23](https://drive.google.com/file/d/1ODjaHhvDI1pC0HftW06wvK9P9-f4LXfS/view?usp=drive_link)
-
+Recorded Lecture: 
 ```
 ''' Final Exam Logistics
-* The final exam will be in person (ILP 2302) Wed 12/13, 12pm - 2pm
+* The final exam will be in person (BUCHN 1930) Mon 06/10, 12pm - 3pm
 * Bring a writing utensil and a photo ID
     * Please write legibly (if we can't read it, we won't grade it)
     * When leaving the room, you must present your ID and hand in your
