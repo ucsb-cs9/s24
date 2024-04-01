@@ -1,10 +1,10 @@
 ---
 layout: lab
 num: lab01
-ready: true
+ready: false
 desc: "Python Classes"
-assigned: 2023-10-08 23:59:59.59-7
-due: 2023-10-15 23:59:59.59-7
+assigned: 2024-04-07 23:59:59.59-7
+due: 2024-04-14 23:59:59.59-7
 ---
 
 In this lab, you'll have the opportunity to practice:
