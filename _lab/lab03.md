@@ -1,10 +1,10 @@
 ---
 layout: lab
 num: lab03
-ready: true
+ready: false
 desc: "Recursion"
-assigned: 2023-10-22 23:59:59.59-7
-due: 2023-10-29 23:59:59.59-7
+assigned: 2024-04-21 23:59:59.59-7
+due: 2024-04-28 23:59:59.59-7
 ---
 
 In this lab, we'll practice:
