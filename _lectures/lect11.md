@@ -2,7 +2,7 @@
 num: "Lecture 11"
 desc: "Midterm (Linked Lists cont., Quadratic Sorting Algorithms)"
 ready: true
-lecture_date: 2023-11-02 11:00:00.00-7:00
+lecture_date: 2024-05-07 12:30:00.00-7:00
 ---
 
 Previous Recorded Lecture: [Linked Lists cont., Quadratic Sorting Algorithms](https://drive.google.com/file/d/1ssZY-kY5gfkS0G4hwbFBEP06XKwTi1RS/view?usp=sharing)
@@ -10,12 +10,12 @@ Previous Recorded Lecture: [Linked Lists cont., Quadratic Sorting Algorithms](ht
 ```
 As stated in class, I'm linking a recorded lecture from a
 previous offering of CS 9. Please watch the recording before
-our next lecture on Tuesday 11/7.
+our next lecture on Tuesday 05/14.
 
 You can ignore any announcements / reminders in the video.
 Reminders relevant for this course are:
-* lab04 due Sunday 11/5 by 11:59PM
-* h04 due Tuesday 11/7 by 11AM
+* lab04 due __
+* h04 due __
 ```
 
 # Pytests for the Linked List Implementation
