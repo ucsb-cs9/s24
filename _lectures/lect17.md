@@ -1,11 +1,11 @@
 ---
 num: "Lecture 17"
 desc: "Binary Search Trees cont."
-ready: true
-lecture_date: 2023-11-28 11:00:00.00-7:00
+ready: false
+lecture_date: 2024-05-28 12:30:00.00-7:00
 ---
 
-Recorded Lecture: [11_28_23](https://drive.google.com/file/d/1J89o3ehz3PZT8HQPUiwOH4_vK-nJ9U6v/view?usp=drive_link)
+Recorded Lecture: 
 
 * Link to previous F21 in-person Final: [F21 Sample Final](https://drive.google.com/file/d/1fYAB0ZffgvwwsumGccgm2mK9OCt0vHVs/view?usp=drive_link)
     * Note: use this as a **supplemental** study guide - the content and difficulty will vary.
