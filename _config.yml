@@ -22,12 +22,16 @@ start_date: 2024-03-31 00:00:00.00-7:00
 num_weeks: 10
 extra_exam_week: true
 
+# ### https://registrar.sa.ucsb.edu/calendars/calendars-deadlines/academic-calendars
+# ### https://registrar.sa.ucsb.edu/calendars/calendars-deadlines/registration-pass-dates
+
 cal_dates: >                                                                    
   [                                                                            
     {"label":"S24 1st day of instruction", "date":"2024-04-01 },
     {"label":"Academic Integrity Contract Due", "date":"2024-04-08" },
+    {"label":"S24 deadline to drop courses", "date":"2024-04-26" },
     {"label":"S24 CS 9 MIDTERM (12:30pm - 1:45pm)", "date":"2024-05-02" },
-    {"label":"Memorial Day", "date":"2024-05-27" },
+    {"label":"Holiday: Memorial Day", "date":"2024-05-27" },
     {"label":"S24 instruction ends", "date":"2024-06-07" },
     {"label":"S24 CS 9 FINAL (12:00pm - 3:00pm)", "date":"2024-06-10" },                                                
     {"label":"S24 qtr ends", "date":"2024-06-14" }                              
