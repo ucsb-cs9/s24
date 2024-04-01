@@ -1,11 +1,11 @@
 ---
 num: "Lecture 13"
 desc: Mergesort
-ready: true
-lecture_date: 2023-11-09 11:00:00.00-7:00
+ready: false
+lecture_date: 2024-05-14 12:30:00.00-7:00
 ---
 
-Recorded Lecture: [11_9_23](https://drive.google.com/file/d/12FEvfBpQfY_YRFRsm-hIVetJJb2k_j6s/view?usp=drive_link)
+Recorded Lecture: 
 
 # Divide and Conquer Algorithms
 
