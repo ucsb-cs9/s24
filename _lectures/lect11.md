@@ -1,7 +1,7 @@
 ---
 num: "Lecture 11"
 desc: "Midterm (Linked Lists cont., Quadratic Sorting Algorithms)"
-ready: true
+ready: false
 lecture_date: 2024-05-07 12:30:00.00-7:00
 ---
 
