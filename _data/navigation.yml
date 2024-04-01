@@ -23,7 +23,7 @@ offerings:
    url: /	
    baseurl: /s24-swsolis
    items:
-      - title: "s24-swsolis"
+      - title: "S24-swsolis CS 9 Home"
         url: /
         baseurl: /s24-swsolis
 
@@ -35,3 +35,11 @@ offering_links:
      dropdown:
          - title: s24-swsolis
            url: https://github.com/ucsb-cs9/s24-swsolis
+           
+# also used in _config.yml
+   - title: Gradescope
+     url: https://www.gradescope.com/courses/760444 # {{ site.gradescope_url }}
+     description: "Assignment Submission"
+   - title: Piazza
+     url: https://piazza.com/ucsb/spring2024/cmpsc9/home
+     description: "Q&A forum"
