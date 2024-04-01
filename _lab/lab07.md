@@ -4,7 +4,7 @@ num: lab07
 ready: false
 desc: "Pizza Time!"
 assigned: 2024-05-19 23:59:59.59-7
-due: 2024-05-26 23:59:59.59-7
+due: 2024-05-28 23:59:59.59-7
 ---
 
 In this lab, we will utilize many concepts covered in the course so far including:
