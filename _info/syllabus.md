@@ -9,7 +9,7 @@ Basic Facts
 
 * **Course Web Site**: <https://ucsb-cs9.github.io/s24-swsolis/>
 * **Instructor**:  [Sharon Solis](https://datascience.ucsb.edu/people/sharon-solis)
-   * Email is swsolis@ucsb.edu, BUT please use [Piazza](https://piazza.com/ucsb/spring2024/cmpsc9) for course related communication.
+   * Email is swsolis@ucsb.edu, BUT please use [Piazza](https://piazza.com/ucsb/spring2024/cmpsc9/home) for course related communication.
 * **Lecture**: Tu Th 12:30pm-1:45pm (BUCHN 1930)
 * **TAs**:  {{site.ta_list_full}} (contact via Piazza)
 * **Mentors**: {{site.mentors_list}} (contact via Piazza)
