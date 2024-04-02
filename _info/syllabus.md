@@ -34,9 +34,9 @@ Intermediate topics in Computer Science using the Python programming language. T
 
 ## A few course policies in brief
 
-* If you are registered for another UCSB course that overlaps with this one, you are responsible for any work or material you may miss. I am within my rights to not give credit on any work you miss as a result, and WILL NOT make accomodations.
+* If you are registered for another UCSB course that overlaps with this one, you are responsible for any work or material you may miss. I am within my rights to not give credit on any work you miss as a result, and WILL NOT make accommodations.
 * Collaboration is only permitted when specifically allowed for — otherwise, you must do your own work independently (lab assignments must be done independently this quarter).
-* I recognize that some absences (e.g. minor illnesses, mishaps, etc.) are unavoidable. Litigating whether each of these is "excused" or not isn't a good use of anyone's time, so instead we will drop the lowest two grades from everyone's homework. No lab assignments will be dropped. This way, absences (or failure to submit homework) does not unduly penalize your grade unless it becomes excessive.
+* I recognize that some absences (e.g. minor illnesses, mishaps, etc.) are unavoidable. Litigating whether each of these is "excused" or not isn't a good use of anyone's time, so instead we will drop the lowest two grades from everyone's homework. No lab assignments will be dropped. This way, absences (or failure to submit homework) do not unduly penalize your grade unless it becomes excessive.
 * We will use the [gradescope system](https://gradescope.com) this quarter for lab submissions and homework assignments. The midterm and final exams will be conducted in-person.
 * All regrade requests must be made on Gradescope and we will not consider a regrade request one week after the assignment grades are distributed back to students.
 
@@ -74,8 +74,8 @@ Your course grade will be determined as follows:
 | Grade Item                                    | Percentage of Final Grade |
 |-----------------------------------------------|---------------------------|
 | Academic Integrity Contract                   | 1 %                      |
-| Midterm (Thursday 11/2), 11am - 12:15pm       | 35 %                      |
-| Final (Wed 12/13), 12:00pm - 2:00pm           | 35 %                      |
+| Midterm (Thurs 05/2), 12:30pm - 1:45pm        | 35 %                      |
+| Final (Mon 06/10), 12:00pm - 3:00pm           | 35 %                      |
 | Homeworks                                     | 9 %                      |
 | Labs                                          | 20 %                      |
 
@@ -109,7 +109,7 @@ Responsible scholarship
 
 Honesty and integrity in all academic work is essential for a valuable educational experience. The Office of Judicial Affairs has policies, tips, and resources for proper citation use, recognizing actions considered to be cheating or other forms of academic theft, and students’ responsibilities, available on their website at: https://studentconduct.sa.ucsb.edu/academic-integrity. **Students are responsible for educating themselves on the policies and abide by them.**
 
-Furthermore, for general academic support, students are encouraged to visit Campus Learning Assistance Services (CLAS) early and often. CLAS offers instructional groups, drop-in tutoring, writing and ESL services, skills workshops and one-on-one consultations. CLAS is located on the third floor of the Student Resource Building, or visit http://clas.sa.ucsb.edu
+Furthermore, for general academic support, students are encouraged to visit Campus Learning Assistance Services (CLAS) early and often. CLAS offers instructional groups, drop-in tutoring, writing and ESL services, skills workshops and one-on-one consultations. CLAS is located on the third floor of the Student Resource Building, or visit [http://clas.sa.ucsb.edu/](http://clas.sa.ucsb.edu/).
 
 Standard Disclaimer
 -------------------
