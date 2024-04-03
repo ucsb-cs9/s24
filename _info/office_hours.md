@@ -13,7 +13,7 @@ Sharon Solis
 
 * During Week 3 and 7, my office hours will be on Wednesday 2:00 - 3:00pm on Zoom.
 
-# TAs
+# Teaching Assistants (TAs)
 
 Rutvik Jha
 * Lab Sections (PHELP 1444): Fridays 9am
@@ -27,7 +27,7 @@ Zihan Ma
 * Lab Sections (PHELP 1444): Fridays 11am
 * 
 
-# Learning Assistants
+# Undergraduate Learning Assistants (ULAs)
 
 Tracy Sun
 * Lab Sections (PHELP 1444) Fridays 9am, 10am, 11am
