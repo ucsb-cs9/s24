@@ -35,7 +35,7 @@ Tracy Sun
 John Nicholson
 * Lab Sections (PHELP 1444) Fridays 10am, 11am
 
-* 
+
 # Contact Us
 
 To ask us a quick question, please use [Piazza]({{ site.piazza_url }}). Do not email us individually.
