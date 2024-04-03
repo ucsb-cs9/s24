@@ -5,7 +5,7 @@ ready: true
 lecture_date: 2024-04-02 12:30:00.00-7:00
 ---
 
-[Recorded Lecture playlist](https://gauchocast.hosted.panopto.com/Panopto/Pages/Viewer.aspx?pid=fc70bbfb-0395-4321-a2b7-b147004c17d1)
+[Recorded Lecture playlist (GauchoCast)](https://gauchocast.hosted.panopto.com/Panopto/Pages/Viewer.aspx?pid=fc70bbfb-0395-4321-a2b7-b147004c17d1)
 
 * Course webpage: [https://ucsb-cs9.github.io/s24-swsolis/](https://ucsb-cs9.github.io/s24-swsolis/)
 	* Please read and understand the syllabus: [https://ucsb-cs9.github.io/s24-swsolis/info/syllabus/](https://ucsb-cs9.github.io/s24-swsolis/info/syllabus/)
