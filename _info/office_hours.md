@@ -40,7 +40,7 @@ John Nicholson
 
 To ask us a quick question, please use [Piazza]({{ site.piazza_url }}). Do not email us individually.
 
-[Link to schedule a 1-1 meeting with Prof Sharon](https://calendar.google.com/calendar/u/0/appointments/AcZssZ1GAMq2Aq6UPKu_v-6NTAnaj1VJRyBhGm2KVkE=>)
+If you cannot make our office hours schedule and need to make an appointment with me, here is a [link to schedule a 1-1 meeting with Prof Sharon](https://calendar.google.com/calendar/u/0/appointments/AcZssZ1GAMq2Aq6UPKu_v-6NTAnaj1VJRyBhGm2KVkE=>).
 
 Prof Sharon's office	Engineering Trailer 936, Rm 103B (see it on [Google Maps](https://maps.app.goo.gl/G2ZXNCLXaoG476Y9A)
 
