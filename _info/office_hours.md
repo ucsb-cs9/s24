@@ -42,9 +42,9 @@ To ask us a quick question, please use [Piazza]({{ site.piazza_url }}). Do not e
 
 [Link to schedule a 1-1 meeting with Prof Sharon](https://calendar.google.com/calendar/u/0/appointments/AcZssZ1GAMq2Aq6UPKu_v-6NTAnaj1VJRyBhGm2KVkE=>)
 
-Prof Sharon's office	Engineering Trailer, Rm 103B - <https://maps.app.goo.gl/G2ZXNCLXaoG476Y9A>
+Prof Sharon's office	Engineering Trailer 936, Rm 103B (see it on [Google Maps](https://maps.app.goo.gl/G2ZXNCLXaoG476Y9A)
 
-Unless stated otherwise, TA and ULA office hours are held in the TA Trailer 936 (see it on [Google Maps](https://maps.app.goo.gl/7US8Hb3WXQw7MZma6)).
+Unless stated otherwise, TA and ULA office hours are held in the Engineering Trailer 936 (see it on [Google Maps](https://maps.app.goo.gl/G2ZXNCLXaoG476Y9A)
 
 
 # Schedule
