@@ -1,7 +1,7 @@
 ---
 num: "Lecture 2"
 desc: "Python Review cont."
-ready: false
+ready: true
 lecture_date: 2024-04-04 12:30:00.00-7:00
 ---
 
