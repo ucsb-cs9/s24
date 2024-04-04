@@ -44,7 +44,7 @@ When creating or obtaining files to work with, you may use any editor of your ch
 
 You can launch IDLE running Python 3+ as a Windows Application. On a Mac or Unix system, you can start idle by typing `idle3` in a terminal window (a program that gives us access to the `command line` interface for the computer). You can access the terminal window by opening up a terminal window:
 
-![terminal icon](Terminal.png)
+![terminal icon](/lab00/Terminal.png)
 
 * A Terminal Window should pop up
 * You can then open the IDLE program by typing `idle3`
