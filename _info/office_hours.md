@@ -9,7 +9,7 @@ ready: true
 # Instructor
 Sharon Solis
 
-* Wednesdays 12:00 - 1:00pm in Engineering Trailer 936, Rm 103B (see it on [Google Maps](https://maps.app.goo.gl/G2ZXNCLXaoG476Y9A)
+* Wednesdays 12:00 - 1:00pm in Engineering Trailer 936, Rm 103B (see it on [Google Maps](https://maps.app.goo.gl/G2ZXNCLXaoG476Y9A))
 
 
 # Teaching Assistants (TAs)
