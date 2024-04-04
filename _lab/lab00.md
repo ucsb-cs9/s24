@@ -44,7 +44,7 @@ When creating or obtaining files to work with, you may use any editor of your ch
 
 You can launch IDLE running Python 3+ as a Windows Application. On a Mac or Unix system, you can start idle by typing `idle3` in a terminal window (a program that gives us access to the `command line` interface for the computer). You can access the terminal window by opening up a terminal window:
 
-![terminal icon](/lab00/Terminal.png)
+![terminal icon](/_lab/lab00/Terminal.png)
 
 * A Terminal Window should pop up
 * You can then open the IDLE program by typing `idle3`
@@ -130,7 +130,7 @@ In order to run your `lab00.py` file in IDLE, go to "Run" -> "Run Module". This 
 
 The lab assignment "Lab00" should appear in your Gradescope dashboard in CMPSC 9. If you haven’t submitted anything for this assignment yet, Gradescope will prompt you to upload your files. This prompt is shown below:
 
-![Gradescope_upload](Gradescope_upload.png)
+![Gradescope_upload](/_lab/lab00/Gradescope_upload.png)
 
 You either can navigate to your file(s) or "drag-and-drop" them into the "Submit Programming Assignment" window.
 
@@ -138,7 +138,7 @@ If you already submitted something on Gradescope, it will take you to their "Aut
 
 For this lab, if everything is correct, you'll see a successful submission passing all of the autograder tests shown below.
 
-![Gradescope_results](Gradescope_results.PNG)
+![Gradescope_results](/_lab/lab00/Gradescope_results.PNG)
 
 **Tip: Removing print statements**
 If you see the following error message:
