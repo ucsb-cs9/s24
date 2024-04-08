@@ -5,7 +5,7 @@ ready: true
 lecture_date: 2024-04-04 12:30:00.00-7:00
 ---
 
-Recorded Lecture: 
+[Recorded Lectures (GauchoCast)](https://gauchocast.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=0a1305b2-d90d-4a41-885a-b14c01652083)
 
 # Relational and Logical Operators
 
