@@ -15,11 +15,17 @@ Basic Facts
 * **ULAs**: {{site.mentors_list}} (contact via Piazza)
 * **Lab** (50 minute lab sections): Fridays 9am, 10am, 11am (PHELP 1444)
 * **Office Hours**: See <https://ucsb-cs9.github.io/s24-swsolis/info/office_hours/>
+* **Lecture Recordings**: [Recorded Lectures (GauchoCast)](https://gauchocast.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=0a1305b2-d90d-4a41-885a-b14c01652083)
+
+>
 
 # Required Resources
 
 * Textbooks:
   * "Problem Solving with Algorithms and Data Structures Using Python" - Bradley N. Miller & David L. Ranum, 2nd edition
+  * [Online version (Unofficial version)]( https://runestone.academy/runestone/books/published/pythonds/index.html)
+
+
 
 Official UCSB Catalog Description
 ---------------------------------
