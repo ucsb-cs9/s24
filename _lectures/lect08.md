@@ -5,9 +5,9 @@ ready: true
 lecture_date: 2024-04-25 12:30:00.00-7:00
 ---
 
-[Recorded Lecture from Prof Wang's F23 class](https://drive.google.com/file/d/1rUEjefcCF05kVDP9_MzWAac_U3uUh9na/view?usp=sharing)
+[Recorded Lecture from Prof Wang's F23 class UPDATED LINK--added to Gauchocast playlist](https://gauchocast.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=0a1305b2-d90d-4a41-885a-b14c01652083)
 
-* Link to previous M23 in-person Midterm: [M23 Sample Midterm](https://drive.google.com/file/d/1w07or5xb0dBN3uzQXp8uW_c6VlMoY9NX/view?usp=drive_link)
+* Link to previous M23 in-person Midterm: [M23 Sample Midterm (UPDATED LINK](https://drive.google.com/file/d/1za9m6AdkAT-3Yfc8Tq2sxNNXxMk7lnXJ/view?usp=sharing)
     * Note: use this as a **supplemental** study guide - the content and difficulty will vary.
 
 # Recall
