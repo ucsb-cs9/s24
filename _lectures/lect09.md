@@ -70,7 +70,7 @@ class Stack:
 * Analogy: Think about standing in line (no cutting!)
 * Similar to a Stack, we can implement a Queue data structure using a Python List
 
-![Queue.png](Queue.png)
+![Queue.png](lect09/Queue.png)
 
 ```
 # pytests
@@ -127,7 +127,7 @@ class Queue:
 		* And a queue where we can insert in the front and remove from the end of a list
 * Similar to a Stack and a Queue, we can implement Deques with a Python List
 
-![Deque.png](Deque.png)
+![Deque.png](lect09/Deque.png)
 
 ```
 # pytests
