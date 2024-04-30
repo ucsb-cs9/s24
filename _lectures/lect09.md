@@ -11,7 +11,7 @@ lecture_date: 2024-04-30 12:30:00.00-7:00
 
 * We’ve discussed Stack properties in previous lectures, but let’s go through the implementation using Python Lists (implementation from Book)
 
-![Stack.png](Stack.png)
+![Stack.png](/lect09/Stack.png)
 
 ```
 # pytests
