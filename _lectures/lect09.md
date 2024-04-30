@@ -185,7 +185,7 @@ class Deque:
 
 ```
 Time:
-* In-person (ILP 2302), Thursday 11/2 11am - 12:15pm PST
+* In-person (BUCHN 1930), Thursday 05/02 12:30 - 1:45pm PST
 
 Logistics:
 * Bring a writing utensil and student ID
@@ -263,5 +263,5 @@ Binary Search
 Linear Data Structures
 - Know implementations (as covered in textbook / lecture) and O-notation
 for various functionality
-    * Stacks, Queues, Deques
+    * Stacks
 ```
