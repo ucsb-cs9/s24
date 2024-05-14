@@ -213,3 +213,5 @@ def test_bubbleSort():
 		* If yes, continue algorithm
 		* If no, then the list is sorted, so stop the algorithm!
 		* An implementation of this optimization is shown in the textbook
+
+[Bubble Sort Visualizer](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/)
