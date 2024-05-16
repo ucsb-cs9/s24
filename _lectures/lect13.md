@@ -30,6 +30,8 @@ lecture_date: 2024-05-16 12:30:00.00-7:00
 
 ![mergesortExample.png](mergesortExample.png)
 
+[Merge Sort Visualizer](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/visualize/)
+
 ## Merge Sort Implementation
 
 ```

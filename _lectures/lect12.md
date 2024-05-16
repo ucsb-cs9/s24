@@ -9,6 +9,8 @@ lecture_date: 2024-05-14 12:30:00.00-7:00
 
 # Selection Sort
 
+[Selection Sort Visualizer](https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/visualize/)
+
 **Idea:** Similar to Bubble Sort, we make passes through the list and find the largest element. We then swap the largest element in the correct place (each iteration will place the largest element at the end of the list assuming we’re sorting in ascending order)
 * It’s not necessary to swap adjacent elements in like Bubble Sort
 * Think of it as "selecting" the largest element and then placing it in the correct place
@@ -52,6 +54,9 @@ def test_selectionSort():
 * Note: we only do one swap operation per iteration unlike Bubble Sort
 
 # Insertion Sort
+
+[Insertion Sort Visualizer](https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/visualize/)
+
 
 **Idea:** We want to work left-to-right and insert unsorted elements into the sorted left portion of the list
 * For example, the first element is sorted by default.
