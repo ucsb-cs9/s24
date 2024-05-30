@@ -5,7 +5,7 @@ ready: true
 lecture_date: 2024-05-30 12:30:00.00-7:00
 ---
 
-Recorded Lecture: 
+[Recorded Lectures (GauchoCast)](https://gauchocast.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=0a1305b2-d90d-4a41-885a-b14c01652083)
 
 * Link to previous F21 in-person Final: [F21 Sample Final](https://drive.google.com/file/d/1FZ1jjLfMtn8EuiIqgX0s6hOp16nSuLv4/view?usp=sharing)
     * Note: use this as a **supplemental** study guide - the content and difficulty will vary.
